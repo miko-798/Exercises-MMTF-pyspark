@@ -1,6 +1,6 @@
 # Tutorials for MMTF conference - PySpark
 
-*This repo contains introductory tutorials and exercises to use PySpark for MMTF conference, made by Miko Liu.*
+*This repo contains introductory tutorials and exercises made by Miko Liu to use PySpark for MMTF conference.*
 
 
 
